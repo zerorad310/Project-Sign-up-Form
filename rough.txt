@@ -1,0 +1,31 @@
+* git repo
+* git clone
+* html and css files
+* update html with basic stuff
+* add image
+* add form section
+* image - 
+	* add odin logo bar
+	* add logo
+	* add ODIN
+* form section - 
+	* divide in 3 sections
+	* first section - 
+		* add text with relevant font (suggested in odin) with relevent size - use calc, rem and stuff
+		* add italics (em I guess)
+	* form section - 
+		* add title
+		* add inputs with labels
+		* applying validations
+		* applying styles to the inputs
+		* apply color to the section - whiter than the first and last sections
+		* apply shadow effect
+	* last section - 
+		* add button with relevant styling
+		* add functionality to the button that checks the validation
+		* add last line
+
+Misc - 
+* character spacing in labels
+
+
